@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nick.Mediator.API", "Nick.Mediator.API\Nick.Mediator.API.csproj", "{54E784A7-2D47-4486-B0A5-351DA10A1A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nick.Mediator.Application", "Nick.Mediator.Application\Nick.Mediator.Application.csproj", "{EE11DC71-50E0-4AFD-BA98-7448A1A300AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nick.Mediator.Common", "Nick.Mediator.Common\Nick.Mediator.Common.csproj", "{585699AE-DF6B-4A1C-9A10-ACB71D046F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E784A7-2D47-4486-B0A5-351DA10A1A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E784A7-2D47-4486-B0A5-351DA10A1A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E784A7-2D47-4486-B0A5-351DA10A1A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E784A7-2D47-4486-B0A5-351DA10A1A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE11DC71-50E0-4AFD-BA98-7448A1A300AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE11DC71-50E0-4AFD-BA98-7448A1A300AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE11DC71-50E0-4AFD-BA98-7448A1A300AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE11DC71-50E0-4AFD-BA98-7448A1A300AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585699AE-DF6B-4A1C-9A10-ACB71D046F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585699AE-DF6B-4A1C-9A10-ACB71D046F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585699AE-DF6B-4A1C-9A10-ACB71D046F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585699AE-DF6B-4A1C-9A10-ACB71D046F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
