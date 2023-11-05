@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Nick.Mediator.API/.vs/Nick.Mediator.API/v17/.suo
+/Nick.Mediator.API/Nick.Mediator.Common/bin/Debug/net7.0/Nick.Mediator.Common.pdb
+/Nick.Mediator.API/Nick.Mediator.Common/bin/Debug/net7.0/Nick.Mediator.Common.dll
